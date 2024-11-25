@@ -1,0 +1,142 @@
+{
+    "name":{
+        "Ahe": {
+            "nationality" : "Anabian" ,
+            "age": "29",
+            "pronouns" : "She/Her",
+            "title" : "Pharaoh"
+        } ,
+        "Aku": {
+            "nationality" : "Kariagan" ,
+            "age": "33",
+            "pronouns" : "She/They",
+            "title" : "Statehead"
+        } ,
+        "Arseniy": {
+            "nationality" : "Zemlyan" ,
+            "age": "68",
+            "pronouns" : "She/Her",
+            "title" : "Chairperson"
+        } ,
+        "Arune": {
+            "nationality" : "Zemnian" ,
+            "age": "16",
+            "pronouns" : "He/They",
+            "title" : "Commander"
+        } ,
+        "Aybyniz": {
+            "nationality" : "Torpaqan" ,
+            "age": "17",
+            "pronouns" : "He/Himr",
+            "title" : "President"
+        } ,
+        "Chiranjibi": {
+            "nationality" : "Bhumian" ,
+            "age": "30",
+            "pronouns" : "He/Him",
+            "title" : "Guildmaster"
+        } ,
+        "Dhianni": {
+            "nationality" : "Gharese" ,
+            "age": "65",
+            "pronouns" : "He/Him",
+            "title" : "Monarch"
+        } ,
+        "Hopoelehua-wikolia": {
+            "nationality" : "Ainian" ,
+            "age": "51",
+            "pronouns" : "He/They",
+            "title" : "Rector"
+        } ,
+        "Iosua": {
+            "nationality" : "Fanuan" ,
+            "age": "60",
+            "pronouns" : "They/Them",
+            "title" : "General"
+        } ,
+        "Keti": {
+            "nationality" : "Gitouoman" ,
+            "age": "20",
+            "pronouns" : "She/Her",
+            "title" : "Governor"
+        } ,
+        "Kirti": {
+            "nationality" : "Bhumian" ,
+            "age": "86",
+            "pronouns" : "They/Them",
+            "title" : "Guildmaster"
+        } ,
+        "Nahi": {
+            "nationality" : "Kariagan" ,
+            "age": "28",
+            "pronouns" : "She/Her",
+            "title" : "Statehead"
+        } ,
+        "Nainui": {
+            "nationality" : "Kariagan" ,
+            "age": "36",
+            "pronouns" : "He/They",
+            "title" : "Statehead"
+        } ,
+        "Nawal": {
+            "nationality" : "El'Lanian" ,
+            "age": "45",
+            "pronouns" : "He/Him",
+            "title" : "Chairperson"
+        } ,
+        "Panteleimon": {
+            "nationality" : "Mythecoran" ,
+            "age": "62",
+            "pronouns" : "She/They",
+            "title" : "General"
+        } ,
+        "Raswinder": {
+            "nationality" : "East Gharese" ,
+            "age": "85",
+            "pronouns" : "She/They",
+            "title" : "President"
+        } ,
+        "Rongo": {
+            "nationality" : "Kariagan" ,
+            "age": "39",
+            "pronouns" : "She/Her",
+            "title" : "Statehead"
+        } ,
+        "Serghei": {
+            "nationality" : "Acasan" ,
+            "age": "20",
+            "pronouns" : "They/Them",
+            "title" : "Chief"
+        } ,
+        "Taiomi": {
+            "nationality" : "Kariagan" ,
+            "age": "18",
+            "pronouns" : "She/They",
+            "title" : "Statehead"
+        } ,
+        "Tetikha":{
+            "nationality" : "Zhatochian" ,
+            "age": "40",
+            "pronouns" : "She/Her",
+            "title" : "Representative"
+        } ,
+        "Theingi-khaing-khaing": {
+            "nationality" : "Aainese" ,
+            "age": "38",
+            "pronouns" : "They/Them",
+            "title" : "Prolocutor"
+        } ,
+        "Tonghyon": {
+            "nationality" : "T'tangian" ,
+            "age": "17",
+            "pronouns" : "She/Her",
+            "title" : "Representative"
+        } ,
+        "Yogendra":{
+            "nationality" : "Bhumian" ,
+            "age": "34",
+            "pronouns" : "She/They",
+            "title" : "Guildmaster"
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "country":{
+        "Aina": {
+            "Name" : "'Aina",
+            "formofgovernment" :" Holy State",
+            "capitalcity" : "Palakiko",
+            "headofgovernment" :" Rector Hopoelehua Wikolia"},
+        "Aain": {
+            "Name" : "Aain",
+            "formofgovernment" : "Democracy",
+            "capitalcity" : "Pwintag",
+            "headofgovernment" : "Prolocutor Theingi Khaing Khaing"},
+        "Acasa": {
+            "Name" : "Acasa",
+            "formofgovernment" : "Democracy",
+            "capitalcity" : "Ioana",
+            "headofgovernment" : "Chief Serghei"},
+        "Anabi": {
+            "Name" : "Anabi",
+            "formofgovernment" : "Absolute Monarchy",
+            "capitalcity" : "Ya'Qasr",
+            "headofgovernment" : "Pharaoh Ahe"},
+        "Bhumi": {
+            "Name" : "Bhumi",
+            "formofgovernment" : "Meritocracy",
+            "capitalcity" : "Ishwar",
+            "headofgovernment" : "Guildmaster Chiranjibi, Guildmaster Yogendra, Guildmaster Kirti"},
+        "East-Ghara": {
+            "Name" : "East Ghara",
+            "formofgovernment" : "Democracy",
+            "capitalcity" : "Mayukha",
+            "headofgovernment" : "President Raswinder"},
+        "El-La": {
+            "Name" : "El'La",
+            "formofgovernment" : "Aristocracy",
+            "capitalcity" : "Surabi",
+            "headofgovernment" : "Chairperson Nawal"},
+        "Fanua": {
+            "Name" : "Fanua",
+            "formofgovernment" : "Dictatorship",
+            "capitalcity" : "Peniamina",
+            "headofgovernment" : "General Iosua"},
+        "Ghara": {
+            "Name" : "Ghara",
+            "formofgovernment" : "Constitutional Monarchy",
+            "capitalcity" : "Kour",
+            "headofgovernment" : "Monach Dhianni"},
+        "Gitouom": {
+            "Name" : "Gitouom",
+            "formofgovernment" : "Technocracy",
+            "capitalcity" : "Paris",
+            "headofgovernment" : "Governor Keti"},
+        "Kariaga": {
+            "Name" : "Kariaga",
+            "formofgovernment" : "Confederation",
+            "capitalcity" : "Heeni",
+            "headofgovernment" :" Statehead Taiomi, Statehead Aku, Statehead Nainui, Statehead Nahi, Statehead Rongo"},
+        "Mythecora": {
+            "Name" : "Mythekora",
+            "formofgovernment" : "Military Dictatorship",
+            "capitalcity" : "Myths",
+            "headofgovernment" : "General Panteleimon"},
+        "T-tang": {
+            "Name" : "T'tang",
+            "formofgovernment" : "Confederation",
+            "capitalcity" : "Chihun",
+            "headofgovernment" :"Representitive Tonghyon"},
+        "Torpaq": {
+            "Name" : "Torpaq",
+            "formofgovernment" : "Meritocracy",
+            "capitalcity" : "Rufet",
+            "headofgovernment" : "President Aybyniz"},
+        "Zeme": {
+            "Name" : "Zeme",
+            "formofgovernment" : "Oligarchy",
+            "capitalcity" : "Rita",
+            "headofgovernment" : "Commander Arune"},
+        "Zemlya": {
+            "Name" : "Zemlya",
+            "formofgovernment" : "Democracy",
+            "capitalcity" : "Selink",
+            "headofgovernment" : "Chairperson Arseniy"},
+        "Zhatochi": {
+            "Name" : "Zhatochi",
+            "formofgovernment" : "Confederation",
+            "capitalcity" : "Zha",
+            "headofgovernment" : "Representitive Tetikha"}
+    }
+}

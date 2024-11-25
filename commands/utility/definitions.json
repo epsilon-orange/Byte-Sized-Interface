@@ -1,0 +1,32 @@
+{
+    "define":{
+        "majl-kai": "The Majl-Kai is the advisorary council to the Pharaoh of Anabi. It contains 6 members, the heads of each of the Great Families",
+        "collapse": "The Collapse was a point in history where the Planes of Existance fell and intersected with the Prime Material Plane. All written history before this point was lost",
+        "bc": "BC or Before Collapse is the period of history before the Collapse occured",
+        "ac": "AC or After Collapse is the period of history after the Collapse occured",
+        "annum": "An annum is a time period consisting of 365 days",
+        "centinnium": "A centinnium is a time period consisting of 100 years",
+        "ao": "Ao is the name of the planet that humans populate. The name is derived from the Kariaga word for ground",
+        "anabi": "Anabi is the second largest country on Ao",
+        "tps": "The Planar System is used to describe the different layers or plans of existance. Though each plane is supposed to be separate, they still maintain a metaphysical connect through which energy is transfered",
+        "the-intersect": "The Intersects are the point on Ao where the Planes Aarukatsu and Duyat meet the Prime Material Plane. Through the Intersects the separate planes have physical access points into each other",
+        "aarukatsu": "Aarukatsu or the Plane of Reeds is the name given to one of the planes that intersected with the Prime Material Plane. It is where Taqa is sourced",
+        "duyat": "Duyat or the Plane without Stars is the name given to one of the planes that intersected with the Prime Material Plane. It is where Rih is sourced",
+        "taqa": "Taqa is the energy that originated from Aarukatsu. It can be used along side Taqago and a conduit to create spontatious effect akin to magic",
+        "taqago": "Taqago is the language used to program Taqa to produce an effect",
+        "rih": "Rih is the energy that originated from Duyat. It can be used along side Rihgo and a conduit to create spontatious effect akin to magic. Prolonged usage alters the user's physicality",
+        "rihgo": "Rihgo is the language used to program Rih to produce an effect",
+        "jadeage": "The Jade Age is the period where humans discovered how to use jade as a conduit for Taqa. This period ends on the discovery of lapis lazuli's use with Rih",
+        "sekhmet-no-rih": "Sekhmet'no'Rih is the name of the desert that was a result of the Duyat Intersect",
+        "yokai": "Yokai are the name for the creatures that emerged from Duyat",
+        "obake": "Obake are a type of Yokai that have the ability to change form between an animal and a human",
+        "discovering": "The Discovering is the name of the period that started when humanity discovered they could utilize the energy of the planes that intersected",
+        "industrial-boom": "The Industrial Boom is the name of the period where humans started developing new technology at a rapid rate",
+        "taking": "The Taking is the name of the period where countries shut down their borders to limit access to the planar energies in hopes to capitalise on it",
+        "conflict": "The Conflict is the name of the period that lead up to and includes the Aoen War, the fight for access to planar energy. It ends with the Te Rangi Intervention",
+        "ao-war": "The Aoen was a period of 22 annums where countries fought for control of the Intersects",
+        "cobalt-war": "The Cobalt War started when Anabi declined the rest of Ao access to Duyat. It is still ongoing",
+        "terangi-intertervention": "The Te Rangi Intervention was led by Kariaga and declared that planar energy was a basic human right that everyone shall have access to. This was signed by every country excluding Anabi"
+    }
+    
+}
