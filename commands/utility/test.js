@@ -11,7 +11,7 @@ module.exports = {
         ),
 
 	async execute(interaction) {
-        var str = interaction.options.getString('input')
+        var str = interaction.options.getString('input').toLowerCase()
         
         await interaction.reply(define[str])
 	},

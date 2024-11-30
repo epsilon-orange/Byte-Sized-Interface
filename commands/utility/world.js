@@ -3,8 +3,8 @@ const { country } = require('./countries.json');
 
 module.exports = {
         data: new SlashCommandBuilder()
-	.setName('country')
-	.setDescription('gives rundown on important info')
+	.setName('country-name')
+	.setDescription('proves information about specified country')
         .addStringOption(option =>
             option.setName('input')
                 .setDescription('country to search')
@@ -12,12 +12,14 @@ module.exports = {
 
 	
 	async execute(interaction) {
-                var str = interaction.options.getString('input')
-        
-                await interaction.reply(`
-                Name: ${str}
-                Form of Government: ${country[str].formofgovernment} 
-                Capital City: ${country[str].capitalcity}
-                Head of State: ${country[str].headofgovernment}`)
-                },
+
+        var str = interaction.options.getString('input').toLowerCase()
+        await interaction.reply(`
+        Name: ${country[str].name}
+        Form of Government: ${country[str].formofgovernment} 
+        Capital City: ${country[str].capitalcity}
+        Head of Government: ${country[str].headofgovernment}`)
+                 
+        }
+                
 };

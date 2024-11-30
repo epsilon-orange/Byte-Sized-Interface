@@ -1,142 +1,207 @@
 {
     "name":{
-        "Ahe": {
+        "achako": {
+            "person": "Achako",
+            "nationality" : "Anabian" ,
+            "age": "86",
+            "pronouns" : "He/They",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "ahe": {
+            "person": "Ahe",
             "nationality" : "Anabian" ,
             "age": "29",
             "pronouns" : "She/Her",
-            "title" : "Pharaoh"
+            "role" : "Pharaoh of Anabi"
         } ,
-        "Aku": {
-            "nationality" : "Kariagan" ,
+        "aku": {
+            "person": "Aku",
+            "nationality" : "Kaingan" ,
             "age": "33",
             "pronouns" : "She/They",
-            "title" : "Statehead"
+            "role" : "Statehead of Kainga"
         } ,
-        "Arseniy": {
+        "arseniy": {
+            "person": "Arseniy",
             "nationality" : "Zemlyan" ,
             "age": "68",
             "pronouns" : "She/Her",
-            "title" : "Chairperson"
+            "role" : "Chairperson of Zemlya"
         } ,
-        "Arune": {
+        "arune": {
+            "person":"Arune",
             "nationality" : "Zemnian" ,
             "age": "16",
             "pronouns" : "He/They",
-            "title" : "Commander"
+            "role" : "Commander of Zeme"
         } ,
-        "Aybyniz": {
+        "aybyniz": {
+            "person":"Aybyniz",
             "nationality" : "Torpaqan" ,
             "age": "17",
             "pronouns" : "He/Himr",
-            "title" : "President"
+            "role" : "President of Torpaq"
         } ,
-        "Chiranjibi": {
+        "chiranjibi": {
+            "person":"Chiranjibi",
             "nationality" : "Bhumian" ,
             "age": "30",
             "pronouns" : "He/Him",
-            "title" : "Guildmaster"
+            "role" : "Guildmaster of Bhumi"
         } ,
-        "Dhianni": {
+        "dhianni": {
+            "person":"Dhianna",
             "nationality" : "Gharese" ,
             "age": "65",
             "pronouns" : "He/Him",
-            "title" : "Monarch"
+            "role" : "Monarch of Ghara"
         } ,
-        "Hopoelehua-wikolia": {
+        "hopoelehua-wikolia": {
+            "person":"Hopoelehua Wikolia",
             "nationality" : "Ainian" ,
             "age": "51",
             "pronouns" : "He/They",
-            "title" : "Rector"
+            "role" : "Rector of 'Aina"
         } ,
-        "Iosua": {
+        "iosua": {
+            "person":"Iosua",
             "nationality" : "Fanuan" ,
             "age": "60",
             "pronouns" : "They/Them",
-            "title" : "General"
+            "role" : "General of Fanua"
         } ,
-        "Keti": {
+        "keti": {
+            "person":"Keti",
             "nationality" : "Gitouoman" ,
             "age": "20",
             "pronouns" : "She/Her",
-            "title" : "Governor"
+            "role" : "Governor of Gitouom"
         } ,
-        "Kirti": {
+        "kirti": {
+            "person":"Kirti",
             "nationality" : "Bhumian" ,
             "age": "86",
             "pronouns" : "They/Them",
-            "title" : "Guildmaster"
+            "role" : "Guildmaster of Bhumi"
         } ,
-        "Nahi": {
-            "nationality" : "Kariagan" ,
+        "korach": {
+            "person": "Korach",
+            "nationality" : "Anabian" ,
+            "age": "65",
+            "pronouns" : "She/They",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "nahi": {
+            "person":"Nahi",
+            "nationality" : "Kaingan" ,
             "age": "28",
             "pronouns" : "She/Her",
-            "title" : "Statehead"
+            "role" : "Statehead of Kainga"
         } ,
-        "Nainui": {
-            "nationality" : "Kariagan" ,
+        "nainui": {
+            "person":"Nainui",
+            "nationality" : "Kaingan" ,
             "age": "36",
             "pronouns" : "He/They",
-            "title" : "Statehead"
+            "role" : "Statehead of Kainga"
         } ,
-        "Nawal": {
+        "nawal": {
+            "person":"Nawal",
             "nationality" : "El'Lanian" ,
             "age": "45",
             "pronouns" : "He/Him",
-            "title" : "Chairperson"
+            "role" : "Chairperson of El'La"
         } ,
-        "Panteleimon": {
+        "panteleimon": {
+            "person":"Panteleimon",
             "nationality" : "Mythecoran" ,
             "age": "62",
             "pronouns" : "She/They",
-            "title" : "General"
+            "role" : "General of Mythecora"
         } ,
-        "Raswinder": {
+        "qalkoyu": {
+            "person":"Qalkoyu",
+            "nationality" : "Anabian" ,
+            "age": "44",
+            "pronouns" : "He/Him",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "raswinder": {
+            "person":"Raswinder",
             "nationality" : "East Gharese" ,
             "age": "85",
             "pronouns" : "She/They",
-            "title" : "President"
+            "role" : "President of East Ghara"
         } ,
-        "Rongo": {
-            "nationality" : "Kariagan" ,
+        "rongo": {
+            "person":"Rongo",
+            "nationality" : "Kaingan" ,
             "age": "39",
             "pronouns" : "She/Her",
-            "title" : "Statehead"
+            "role" : "Statehead of Kainga"
         } ,
-        "Serghei": {
+        "sanhem": {
+            "person":"Sanhem",
+            "nationality" : "Anabian" ,
+            "age": "56",
+            "pronouns" : "She/They",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "serano": {
+            "person":"Serano",
+            "nationality" : "Anabian" ,
+            "age": "19",
+            "pronouns" : "They/Them",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "serghei": {
+            "person":"Serghei",
             "nationality" : "Acasan" ,
             "age": "20",
             "pronouns" : "They/Them",
-            "title" : "Chief"
+            "role" : "Chief of Acasa"
         } ,
-        "Taiomi": {
-            "nationality" : "Kariagan" ,
+        "taiomi": {
+            "person":"Taiomi",
+            "nationality" : "Kaingan" ,
             "age": "18",
             "pronouns" : "She/They",
-            "title" : "Statehead"
+            "role" : "Statehead of Kainga"
         } ,
-        "Tetikha":{
+        "tefri":{
+            "person":"Tefri",
+            "nationality" : "Anabian" ,
+            "age": "15",
+            "pronouns" : "He/They",
+            "role" : "Hakoi'Akim of the Majl-Kai"
+        } ,
+        "tetikha":{
+            "person":"Tetikha",
             "nationality" : "Zhatochian" ,
             "age": "40",
             "pronouns" : "She/Her",
-            "title" : "Representative"
+            "role" : "Representative of Zhatochi"
         } ,
-        "Theingi-khaing-khaing": {
+        "theingi-khaing-khaing": {
+            "person":"Theingi Khaing Khaing",
             "nationality" : "Aainese" ,
             "age": "38",
             "pronouns" : "They/Them",
-            "title" : "Prolocutor"
+            "role" : "Prolocutor of Aain"
         } ,
-        "Tonghyon": {
+        "tonghyon": {
+            "person":"Tonghyon",
             "nationality" : "T'tangian" ,
             "age": "17",
             "pronouns" : "She/Her",
-            "title" : "Representative"
+            "role" : "Representative of T'tang"
         } ,
-        "Yogendra":{
+        "yogendra":{
+            "person":"Yogendra",
             "nationality" : "Bhumian" ,
             "age": "34",
             "pronouns" : "She/They",
-            "title" : "Guildmaster"
+            "role" : "Guildmaster of Bhumi"
         }
     }
 }

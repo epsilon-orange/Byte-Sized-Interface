@@ -26,7 +26,18 @@
         "conflict": "The Conflict is the name of the period that lead up to and includes the Aoen War, the fight for access to planar energy. It ends with the Te Rangi Intervention",
         "ao-war": "The Aoen was a period of 22 annums where countries fought for control of the Intersects",
         "cobalt-war": "The Cobalt War started when Anabi declined the rest of Ao access to Duyat. It is still ongoing",
-        "terangi-intertervention": "The Te Rangi Intervention was led by Kariaga and declared that planar energy was a basic human right that everyone shall have access to. This was signed by every country excluding Anabi"
+        "terangi-intertervention": "The Te Rangi Intervention was led by Kariaga and declared that planar energy was a basic human right that everyone shall have access to. This was signed by every country excluding Anabi",
+        "theocracy":"Theocracy is a form of oligarchy in which one or more deities are recognized as supreme ruling authorities, giving divine guidance to human intermediaries who manage the government's daily affairs",
+        "democracy":"Democracy is a system of government where state power is vested in the people of the state",
+        "absolute-monarchy":"An Absolute Monarchy is when a single person reigns as head of state and government with ultimate authority until they die",
+        "meritocracy":"A Meritocracy is a system where by power is given to individuals based on their skills and abilities rather than wealth or social class",
+        "aristocracy":"An Aristocracy is a system where the power of governance is given to a small, privilaged group of people",
+        "dictatorship":"A Dictatorship is where power resides in the hands of one single person or polity",
+        "constitutional-monarchy":"A Constitutional Monarchy is when a single person reigns as head of state and governement, limited by the law or constitution, until they die",
+        "technocracy":"A Technocracy is a form of governance where the decision-making power is given to people based on their expertise in a given field",
+        "confederation":"A Confederation is a political union of sovereign states united for purposes of common action",
+        "miliary dictatorship":"A Military Dictatorship is where power reside in the hands of a general and is enforced by the military",
+        "oligarchy":"An Oligarchy is a system where the power of governance is given to a small group of people based on various criteria like education, wealth, etc."
     }
     
 }

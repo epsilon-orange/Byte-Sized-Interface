@@ -14,7 +14,7 @@ module.exports = {
 	
 	async execute(interaction) {
     
-        interaction.guild.channels.cache.get(id[interaction.options.getString('interface')]).send(interaction.options.getString('content'))
+        interaction.guild.channels.cache.get(id[interaction.options.getString('interface').toLowerCase()]).send(interaction.options.getString('content'))
 
         await interaction.reply("Message Sent")
         

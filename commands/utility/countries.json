@@ -1,87 +1,87 @@
 {
     "country":{
-        "Aina": {
-            "Name" : "'Aina",
-            "formofgovernment" :" Holy State",
+        "'aina": {
+            "name" : "'Aina",
+            "formofgovernment" :"Theocracy",
             "capitalcity" : "Palakiko",
             "headofgovernment" :" Rector Hopoelehua Wikolia"},
-        "Aain": {
-            "Name" : "Aain",
+        "aain": {
+            "name" : "Aain",
             "formofgovernment" : "Democracy",
             "capitalcity" : "Pwintag",
             "headofgovernment" : "Prolocutor Theingi Khaing Khaing"},
-        "Acasa": {
-            "Name" : "Acasa",
+        "acasa": {
+            "name" : "Acasa",
             "formofgovernment" : "Democracy",
             "capitalcity" : "Ioana",
             "headofgovernment" : "Chief Serghei"},
-        "Anabi": {
-            "Name" : "Anabi",
+        "anabi": {
+            "name" : "Anabi",
             "formofgovernment" : "Absolute Monarchy",
             "capitalcity" : "Ya'Qasr",
             "headofgovernment" : "Pharaoh Ahe"},
-        "Bhumi": {
-            "Name" : "Bhumi",
+        "bhumi": {
+            "name" : "Bhumi",
             "formofgovernment" : "Meritocracy",
             "capitalcity" : "Ishwar",
             "headofgovernment" : "Guildmaster Chiranjibi, Guildmaster Yogendra, Guildmaster Kirti"},
-        "East-Ghara": {
-            "Name" : "East Ghara",
+        "east-ghara": {
+            "name" : "East Ghara",
             "formofgovernment" : "Democracy",
             "capitalcity" : "Mayukha",
             "headofgovernment" : "President Raswinder"},
-        "El-La": {
-            "Name" : "El'La",
+        "el-la": {
+            "name" : "El'La",
             "formofgovernment" : "Aristocracy",
             "capitalcity" : "Surabi",
             "headofgovernment" : "Chairperson Nawal"},
-        "Fanua": {
-            "Name" : "Fanua",
+        "fanua": {
+            "name" : "Fanua",
             "formofgovernment" : "Dictatorship",
             "capitalcity" : "Peniamina",
             "headofgovernment" : "General Iosua"},
-        "Ghara": {
-            "Name" : "Ghara",
+        "ghara": {
+            "name" : "Ghara",
             "formofgovernment" : "Constitutional Monarchy",
             "capitalcity" : "Kour",
             "headofgovernment" : "Monach Dhianni"},
-        "Gitouom": {
-            "Name" : "Gitouom",
+        "gitouom": {
+            "name" : "Gitouom",
             "formofgovernment" : "Technocracy",
             "capitalcity" : "Paris",
             "headofgovernment" : "Governor Keti"},
-        "Kariaga": {
-            "Name" : "Kariaga",
+        "kainga": {
+            "name" : "Kainga",
             "formofgovernment" : "Confederation",
             "capitalcity" : "Heeni",
             "headofgovernment" :" Statehead Taiomi, Statehead Aku, Statehead Nainui, Statehead Nahi, Statehead Rongo"},
-        "Mythecora": {
-            "Name" : "Mythekora",
+        "mythecora": {
+            "name" : "Mythekora",
             "formofgovernment" : "Military Dictatorship",
             "capitalcity" : "Myths",
             "headofgovernment" : "General Panteleimon"},
-        "T-tang": {
-            "Name" : "T'tang",
+        "t-tang": {
+            "name" : "T'tang",
             "formofgovernment" : "Confederation",
             "capitalcity" : "Chihun",
             "headofgovernment" :"Representitive Tonghyon"},
-        "Torpaq": {
-            "Name" : "Torpaq",
+        "torpaq": {
+            "name" : "Torpaq",
             "formofgovernment" : "Meritocracy",
             "capitalcity" : "Rufet",
             "headofgovernment" : "President Aybyniz"},
-        "Zeme": {
-            "Name" : "Zeme",
+        "zeme": {
+            "name" : "Zeme",
             "formofgovernment" : "Oligarchy",
             "capitalcity" : "Rita",
             "headofgovernment" : "Commander Arune"},
-        "Zemlya": {
-            "Name" : "Zemlya",
+        "zemlya": {
+            "name" : "Zemlya",
             "formofgovernment" : "Democracy",
             "capitalcity" : "Selink",
             "headofgovernment" : "Chairperson Arseniy"},
-        "Zhatochi": {
-            "Name" : "Zhatochi",
+        "zhatochi": {
+            "name" : "Zhatochi",
             "formofgovernment" : "Confederation",
             "capitalcity" : "Zha",
             "headofgovernment" : "Representitive Tetikha"}

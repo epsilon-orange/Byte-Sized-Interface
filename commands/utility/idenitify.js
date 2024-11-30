@@ -12,11 +12,11 @@ module.exports = {
                               
 
 	async execute(interaction) {
-        var str = interaction.options.getString('input')
+        var str = interaction.options.getString('input').toLowerCase()
 
         await interaction.reply(`
-        Name: ${str}
-        Title: ${name[str].title} 
+        Name: ${name[str].person}
+        Role: ${name[str].role} 
         Pronouns: ${name[str].pronouns}
         Nationality: ${name[str].nationality}
         Age: ${name[str].age}`)
